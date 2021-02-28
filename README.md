@@ -1,14 +1,15 @@
 # ExporatoryDataAnalysis_with_SQL
 
-### Background---
+### Background
 
 Six tables from the World Bank website and the WHO website were downloaded and cleaned  for data exploration purposes.
+All data is 2012 data
  
 1. Malaria deaths
-2. disability adjusted life years attributed to the environment(2012)
+2. disability adjusted life years attributed to the environment
 3. female life expectancy at birth (Years)
 4. GDP per capita (current US $)
-5. CPIA transparency
+5. CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high) 
 
 
 ### Data Sources

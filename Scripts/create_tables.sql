@@ -1,0 +1,30 @@
+DROP TABLE IF EXISTS daly;
+CREATE TABLE daly (
+  Country VARCHAR(80) PRIMARY KEY NOT NULL,
+  total_env_DALYs NUMERIC
+);
+
+DROP TABLE IF EXISTS gdp;
+CREATE TABLE gdp (
+  Country VARCHAR(80) PRIMARY KEY NOT NULL,
+  gdp_capita NUMERIC
+);
+
+DROP TABLE IF EXISTS f_life_exp;
+CREATE TABLE f_life_exp (
+  Country VARCHAR(80) PRIMARY KEY NOT NULL,
+  years NUMERIC
+);
+
+DROP TABLE IF EXISTS malaria;
+CREATE TABLE malaria (
+  Country VARCHAR(80) PRIMARY KEY NOT NULL,
+  malaria_deaths NUMERIC
+);
+
+DROP TABLE IF EXISTS transparency;
+CREATE TABLE transparency (
+  Country VARCHAR(80) PRIMARY KEY NOT NULL,
+  cpia NUMERIC
+);
+

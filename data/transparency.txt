@@ -1,0 +1,218 @@
+Country	CPIA
+Afghanistan	2
+Albania	..
+Algeria	..
+American Samoa	..
+Andorra	..
+Angola	2.5
+Antigua and Barbuda	..
+Argentina	..
+Armenia	3.5
+Aruba	..
+Australia	..
+Austria	..
+Azerbaijan	..
+"Bahamas, The"	..
+Bahrain	..
+Bangladesh	2.5
+Barbados	..
+Belarus	..
+Belgium	..
+Belize	..
+Benin	3.5
+Bermuda	..
+Bhutan	4.5
+Bolivia	3.5
+Bosnia and Herzegovina	3
+Botswana	..
+Brazil	..
+British Virgin Islands	..
+Brunei Darussalam	..
+Bulgaria	..
+Burkina Faso	3.5
+Burundi	2
+Cabo Verde	4.5
+Cambodia	2
+Cameroon	2.5
+Canada	..
+Cayman Islands	..
+Central African Republic	2.5
+Chad	2
+Channel Islands	..
+Chile	..
+China	..
+Colombia	..
+Comoros	2.5
+"Congo, Dem. Rep."	2
+"Congo, Rep."	2
+Costa Rica	..
+Cote d'Ivoire	2.5
+Croatia	..
+Cuba	..
+Curacao	..
+Cyprus	..
+Czech Republic	..
+Denmark	..
+Djibouti	2.5
+Dominica	4
+Dominican Republic	..
+Ecuador	..
+"Egypt, Arab Rep."	..
+El Salvador	..
+Equatorial Guinea	..
+Eritrea	2
+Estonia	..
+Eswatini	..
+Ethiopia	3
+Faroe Islands	..
+Fiji	..
+Finland	..
+France	..
+French Polynesia	..
+Gabon	..
+"Gambia, The"	2
+Georgia	3.5
+Germany	..
+Ghana	4
+Gibraltar	..
+Greece	..
+Greenland	..
+Grenada	4
+Guam	..
+Guatemala	..
+Guinea	2
+Guinea-Bissau	2
+Guyana	2.5
+Haiti	2.5
+Honduras	3
+"Hong Kong SAR, China"	..
+Hungary	..
+Iceland	..
+India	3.5
+Indonesia	..
+"Iran, Islamic Rep."	..
+Iraq	..
+Ireland	..
+Isle of Man	..
+Israel	..
+Italy	..
+Jamaica	..
+Japan	..
+Jordan	..
+Kazakhstan	..
+Kenya	3
+Kiribati	3.5
+"Korea, Dem. People’s Rep."	..
+"Korea, Rep."	..
+Kosovo	3
+Kuwait	..
+Kyrgyz Republic	3
+Lao PDR	2.5
+Latvia	..
+Lebanon	..
+Lesotho	3.5
+Liberia	3
+Libya	..
+Liechtenstein	..
+Lithuania	..
+Luxembourg	..
+"Macao SAR, China"	..
+Madagascar	2.5
+Malawi	3
+Malaysia	..
+Maldives	3
+Mali	3
+Malta	..
+Marshall Islands	3.5
+Mauritania	2.5
+Mauritius	..
+Mexico	..
+"Micronesia, Fed. Sts."	3.5
+Moldova	3.5
+Monaco	..
+Mongolia	3.5
+Montenegro	..
+Morocco	..
+Mozambique	3
+Myanmar	..
+Namibia	..
+Nauru	..
+Nepal	3
+Netherlands	..
+New Caledonia	..
+New Zealand	..
+Nicaragua	2.5
+Niger	3
+Nigeria	3
+North Macedonia	..
+Northern Mariana Islands	..
+Norway	..
+Oman	..
+Pakistan	2.5
+Palau	..
+Panama	..
+Papua New Guinea	3
+Paraguay	..
+Peru	..
+Philippines	..
+Poland	..
+Portugal	..
+Puerto Rico	..
+Qatar	..
+Romania	..
+Russian Federation	..
+Rwanda	3.5
+Samoa	4
+San Marino	..
+Sao Tome and Principe	3.5
+Saudi Arabia	..
+Senegal	3.5
+Serbia	..
+Seychelles	..
+Sierra Leone	3
+Singapore	..
+Sint Maarten (Dutch part)	..
+Slovak Republic	..
+Slovenia	..
+Solomon Islands	3
+Somalia	..
+South Africa	..
+South Sudan	2
+Spain	..
+Sri Lanka	3
+St. Kitts and Nevis	..
+St. Lucia	4.5
+St. Martin (French part)	..
+St. Vincent and the Grenadines	4
+Sudan	1.5
+Suriname	..
+Sweden	..
+Switzerland	..
+Syrian Arab Republic	..
+Tajikistan	2.5
+Tanzania	3
+Thailand	..
+Timor-Leste	2.5
+Togo	2.5
+Tonga	3.5
+Trinidad and Tobago	..
+Tunisia	..
+Turkey	..
+Turkmenistan	..
+Turks and Caicos Islands	..
+Tuvalu	3
+Uganda	2
+Ukraine	..
+United Arab Emirates	..
+United Kingdom	..
+United States	..
+Uruguay	..
+Uzbekistan	2
+Vanuatu	3.5
+"Venezuela, RB"	..
+Vietnam	3
+Virgin Islands (U.S.)	..
+West Bank and Gaza	..
+"Yemen, Rep."	2
+Zambia	3
+Zimbabwe	1.5
